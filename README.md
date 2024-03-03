@@ -15,8 +15,7 @@ As an analyst for a mock company, Instacart, I'm diving into their sales data to
 
 **Data Set**: The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 
-- Rockbuster Data Set 
-[Rockbuster Excel Data.xls](https://github.com/isom17/InstaCartAnalysis/files/14471305/Rockbuster.Excel.Data.xls)
+-[Rockbuster Data Set](https://github.com/isom17/InstaCartAnalysis/files/14471305/Rockbuster.Excel.Data.xls)
 
 **Project Deliverables**: The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 
@@ -25,9 +24,8 @@ As an analyst for a mock company, Instacart, I'm diving into their sales data to
 - Visualizations in Tableau Public.
 - A narrative story combining data insights with business strategies.
 
-**Visualizations**: Check out the [Tableau Public dashboard] (https://public.tableau.com/app/profile/isom.winton/vizzes) for interactive insights.  
+**Visualizations**: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/isom.winton/vizzes) for interactive insights.  
 
-**Final Project PDF**: Find a detailed report in the Final Project PDF.
-[Exercise 3.10_RockBuster Stealth llc._Isom Winton (1).pdf](https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
+**Final Project PDF**: Find a detailed report in the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
 
 This repository showcases not just technical SQL capabilities but also the ability to convert data into strategic business outcomes.
