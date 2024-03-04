@@ -31,7 +31,7 @@ The insights derived from this analysis will cater to:
 The goal is to align marketing strategies with customer preferences and uncover growth opportunities within Instacart's offerings.
 
 ## Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471685/Instacart_Final.Report_Isom.Winton.xlsx) as well as the [Instacart Basket Analysis 2-2024 zip]([Instacart Basket Analysis 02-2024.zip](https://github.com/isom17/InstaCartAnalysis/files/14481561/Instacart.Basket.Analysis.02-2024.zip)
+For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471685/Instacart_Final.Report_Isom.Winton.xlsx) as well as the [Instacart Basket Analysis 2-2024 zip](https://github.com/isom17/InstaCartAnalysis/files/14481561/Instacart.Basket.Analysis.02-2024.zip)
  containing all data sets, graphs, and reports.
 
 This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
